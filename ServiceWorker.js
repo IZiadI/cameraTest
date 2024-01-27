@@ -1,9 +1,9 @@
 const cacheName = "MVB-Phlex_excerciseConstructor-0.1";
 const contentToCache = [
-    "Build/excercise_constructor.loader.js",
-    "Build/excercise_constructor.framework.js",
-    "Build/excercise_constructor.data",
-    "Build/excercise_constructor.wasm",
+    "Build/cameraTest.loader.js",
+    "Build/cameraTest.framework.js",
+    "Build/cameraTest.data",
+    "Build/cameraTest.wasm",
     "TemplateData/style.css"
 
 ];
